@@ -7,12 +7,12 @@ repos:
     rev: 1.9.1
     hooks:
      - id: nbqa-black
-       additional_dependencies: [black==26.5.1]
+       additional_dependencies: [black==25.11.0]
        args: ["--skip-string-normalization"]
      - id: nbqa-pyupgrade
-       additional_dependencies: [pyupgrade==3.21.2]
+       additional_dependencies: [pyupgrade==3.21.0]
      - id: nbqa-isort
-       additional_dependencies: [isort==8.0.1]
+       additional_dependencies: [isort==6.1.0]
      - id: nbqa-pylint
-       additional_dependencies: [pylint==4.0.5]
+       additional_dependencies: [pylint==3.3.4]
        args: ["--disable=missing-module-docstring,import-error,wrong-import-position,wrong-import-order,ungrouped-imports"]
