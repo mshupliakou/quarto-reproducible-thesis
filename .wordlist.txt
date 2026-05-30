@@ -338,3 +338,12 @@ wb
 Cfaerber
 Yug
 Inkscape
+Codecov
+JUnit
+ValueError
+initializing
+mv
+nose2
+py
+pytest
+unittest
