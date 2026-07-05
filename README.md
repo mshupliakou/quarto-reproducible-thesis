@@ -61,7 +61,7 @@ The above installation steps are CI-tested on 🐧 Linux, 🍏 macOS and 🪟 Wi
 ## <span class="emoji">🛠️</span> Notes for contributors
 
 - [pre-commit documentation](https://pre-commit.com/#3-install-the-git-hook-scripts)
-- [Quarto template docs](https://quarto.org/docs/extensions/starter-templates.html#using-a-template) 
+- [Quarto template docs](https://quarto.org/docs/extensions/starter-templates.html#using-a-template)
 
 ## <span class="emoji">👥</span> Credits
 
