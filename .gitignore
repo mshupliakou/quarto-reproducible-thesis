@@ -3,3 +3,15 @@
 **/thesis.pdf
 logo_AGH.pdf
 **/refs.bib
+
+# MusiXTeX / PMX outputs
+*.pmx
+*.mx1
+*.mx2
+musixtex.log
+melody.pdf
+melody.tex
+duet.pdf
+duet.tex
+piano.pdf
+piano.tex
