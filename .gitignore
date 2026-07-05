@@ -1,17 +1,9 @@
+.ipynb_checkpoints/*
 /.quarto/
 **/*.quarto_ipynb
 **/thesis.pdf
 logo_AGH.pdf
 **/refs.bib
-
-# MusiXTeX / PMX outputs
-*.pmx
-*.mx1
-*.mx2
+Bitmap_VS_SVG.svg
+pmx-*.pdf
 musixtex.log
-melody.pdf
-melody.tex
-duet.pdf
-duet.tex
-piano.pdf
-piano.tex
